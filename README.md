@@ -1,3 +1,6 @@
+#### This fork doesn't change any code. It just adds Windows binaries for those who don't want to build it themselves.
+
+
 # jpeg2png
 ## Silky smooth JPEG decoding - no more artifacts!
 JPEG encoding loses information. But it is JPEG decoding that introduces artifacts by filling the missing information with noise.
